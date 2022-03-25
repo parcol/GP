@@ -1,8 +1,7 @@
 ## Team members
 
 Bai Xiangling (3035773199)
-
-Group 56 in ENGG1340/COMP2113
+Liu ChunHey (3035930979)
 
 ## Game description
 
