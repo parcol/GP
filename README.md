@@ -1,7 +1,9 @@
-Team members
+## Team members
+
+Bai Xiangling (3035773199)
 
 
-Game description
+## Game description
 
 
-Game Features
+## Game Features
